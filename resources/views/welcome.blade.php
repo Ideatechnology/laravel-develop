@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Hellow World</div>
+                <div class="title">Hellow World Harry Ridwan</div>
             </div>
         </div>
     </body>
